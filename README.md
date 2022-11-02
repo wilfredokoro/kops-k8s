@@ -103,6 +103,7 @@ You Created. --> Save.
 
 	   kops validate cluster
 	* if you run into an error run: kops export kubecfg --admin
+	* Then try again
 	   
 	   
 	   Suggestions:
